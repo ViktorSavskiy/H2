@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+
+.link {
+    color: rgb(100, 203, 237);
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.h1 {
+    color: #e40f0f;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.par {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #f00f8e
+}
+
+.h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
